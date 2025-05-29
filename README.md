@@ -25,7 +25,7 @@ by adapting just a small subspace of the network while preserving learned analog
 
 ## 📈 Results
 
-- ✅ Up to **8× faster convergence**
+- ✅ Up to **4× faster convergence**
 - ✅ **Higher or comparable FoM** across four amplifier topologies (A–D)
 - ✅ **Reduced SPICE evaluations** during transfer (TSMC 45 nm)
 
